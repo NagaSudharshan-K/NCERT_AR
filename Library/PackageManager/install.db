@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "053984073e9f",
+        "mtime": 1738927819000,
+        "size": 139446722,
+        "localPath": "C:\\SUDHARSHAN\\Unity\\NCERT_AR\\Packages\\com.ptc.vuforia.engine-11.0.4.tgz"
+      }
+    }
+  }
+}

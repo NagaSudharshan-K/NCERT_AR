@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="atom_struct" size="6.000000 2.818462" />
+    <ImageTarget name="p11" size="6.000000 5.611814" />
+    <ImageTarget name="plantcell" size="6.000000 5.067358" />
+  </Tracking>
+</QCARConfig>
